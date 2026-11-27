@@ -1,6 +1,6 @@
 # Tbilisi Game
 
-A casual browser game built for students — simple graphics, interactive obstacles, and Tbilisi's signature potholes.
+A casual browser game built for students. simple graphics, interactive obstacles, and Tbilisi's signature potholes.
 
 [Play Tbilisi Game](https://iarum.github.io/tbilisi-game/)
 
